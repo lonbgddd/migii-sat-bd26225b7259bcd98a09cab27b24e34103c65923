@@ -1,0 +1,43 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1">
+
+    <g>
+        <title>Layer 1</title>
+        <path id="svg_1" stroke="#74ccbd" stroke-width="4px" stroke-miterlimit="10"
+            stroke-linecap="round" fill="none"
+            d="m21.77,28.26l41.5,0a7,7 0 0 1 7,7l0,0a7,7 0 0 1 -7,7l-41.5,0" class="cls-1" />
+        <rect id="svg_2" fill="#74ccbd" rx="1" height="2" width="37.96" y="32.46" x="25.21"
+            class="cls-2" />
+        <rect id="svg_3" fill="#74ccbd" rx="1" height="2" width="37.96" y="36.16" x="25.21"
+            class="cls-2" />
+        <path id="svg_4" stroke="#74ccbd" stroke-width="4px" stroke-miterlimit="10"
+            stroke-linecap="round" fill="none"
+            d="m26,64.14l41.5,0a7,7 0 0 1 7,7l0,0a7,7 0 0 1 -7,7l-41.5,0" class="cls-1" />
+        <rect id="svg_5" fill="#74ccbd" rx="1" height="2" width="37.96" y="68.34" x="29.44"
+            class="cls-2" />
+        <rect id="svg_6" fill="#74ccbd" rx="1" height="2" width="37.96" y="72.03" x="29.44"
+            class="cls-2" />
+        <path id="svg_7" stroke="#ee8d4d" stroke-width="4px" stroke-miterlimit="10"
+            stroke-linecap="round" fill="none"
+            d="m78.23,60.26l-41.5,0a7,7 0 0 1 -7,-7l0,0a7,7 0 0 1 7,-7l41.5,0" class="cls-3" />
+        <rect id="svg_8" transform="rotate(-180 111.62 110.13)" fill="#5ec5b4" rx="1" height="2"
+            width="37.96" y="164.19" x="148.45" class="cls-4" />
+        <rect id="svg_9" transform="rotate(180 111.62 102.74)" fill="#5ec5b4" rx="1" height="2"
+            width="37.96" y="153.11" x="148.45" class="cls-4" />
+        <rect id="svg_10" transform="rotate(-89.78 20.9 69.56)" fill="#ee8d4d" rx="0.9"
+            height="24.1" width="3.92" y="81.8" x="64.3" class="cls-5" />
+        <path id="svg_11" fill="#fd6824"
+            d="m33.3,26.2l0,-2l24.1,0.09l0,1.09a0.87,0.87 0 0 1 -0.87,0.87l-23.23,-0.05z"
+            class="cls-6" />
+        <polygon id="svg_12" fill="#f4f4f4"
+            points="33.3 26.2 31.86 25.47 31.87 23 33.32 22.28 33.3 26.2" class="cls-7" />
+        <polygon id="svg_13" fill="#49494a" points="31.86 25.47 29.4 24.23 31.87 23 31.86 25.47"
+            class="cls-8" />
+        <polygon id="svg_14" fill="#fff"
+            points="33.31 24.24 31.86 24.24 31.87 23 33.32 22.28 33.31 24.24" class="cls-9" />
+        <polygon id="svg_15" fill="#565656" points="31.86 24.24 29.4 24.23 31.87 23 31.86 24.24"
+            class="cls-10" />
+        <path id="svg_16" fill="#f1f2f2"
+            d="m57.11,26.28l-1.68,0c0.6,-0.19 0.58,-3.76 0,-3.93l1.68,0a2,2 0 0 1 2,2l0,0a2,2 0 0 1 -2,1.93z"
+            class="cls-11" />
+    </g>
+</svg>

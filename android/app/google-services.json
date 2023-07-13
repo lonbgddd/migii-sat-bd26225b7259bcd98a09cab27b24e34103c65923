@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1038793941953",
+    "project_id": "migii-sat",
+    "storage_bucket": "migii-sat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038793941953:android:eaeb8a6d4a6db146ce8540",
+        "android_client_info": {
+          "package_name": "com.eup.migiisat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038793941953-0c2513r907bn0lb5m7619gvmpkkvr308.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eup.migiisat",
+            "certificate_hash": "8633de1fc8d56d9447db5ddffb86738c3fa964ec"
+          }
+        },
+        {
+          "client_id": "1038793941953-201ek1p8es5l47gon1c250hkrlknm7uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eup.migiisat",
+            "certificate_hash": "e20013ec8ef2cfb0fc672ff40eb4ed34259f25f9"
+          }
+        },
+        {
+          "client_id": "1038793941953-3rthgdl84r1l8guk1d7oarkae6dtd5ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC9h3DlZYsRXI7h6fVGKelQFlVW60fQ0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038793941953-3rthgdl84r1l8guk1d7oarkae6dtd5ha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038793941953-0c0f76uh9tlg5e1rms8k0faja5m0a7ia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eup.migiisat",
+                "app_store_id": "6450196004"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

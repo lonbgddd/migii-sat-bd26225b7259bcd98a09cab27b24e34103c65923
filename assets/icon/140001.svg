@@ -1,0 +1,39 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1">
+
+    <g>
+        <title>Layer 1</title>
+        <g id="svg_1" opacity="0.1" class="cls-1">
+            <circle id="svg_2" fill="#4db5ac" r="50" cy="50" cx="50" class="cls-2" />
+        </g>
+        <path id="svg_3" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none"
+            d="m62.87,34.68l0,-9.92a3.71,3.71 0 0 0 -3.71,-3.71l-29,0l0,12.56l-12.6,0l0,41.39a3.71,3.71 0 0 0 3.71,3.71l37.89,0a3.71,3.71 0 0 0 3.71,-3.71l0,-24.37"
+            class="cls-3" />
+        <line id="svg_4" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" y2="32.87" x2="17.56" y1="21.05" x1="29.4" class="cls-3" />
+        <line id="svg_5" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" y2="43.72" x2="48.91" y1="43.72" x1="26.21"
+            class="cls-3" />
+        <line id="svg_6" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" y2="54.18" x2="44.52" y1="54.18" x1="26.21"
+            class="cls-3" />
+        <path id="svg_7" stroke-width="3.51px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none"
+            d="m50.68,58.7l0,0l3.41,-10.7l17.24,-22.68l2.24,-2.95a3.79,3.79 0 0 1 5.31,-0.72l0,0a3.8,3.8 0 0 1 0.72,5.35l-2.25,2.95l-17.24,22.61l-9.43,6.14z"
+            class="cls-4" />
+        <line id="svg_8" stroke-width="3.51px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" y2="52.48" x2="60.17" y1="47.89" x1="54.14"
+            class="cls-4" />
+        <line id="svg_9" stroke-width="3.51px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" y2="29.87" x2="77.38" y1="25.28" x1="71.35"
+            class="cls-4" />
+        <line id="svg_10" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" y2="66.06" x2="31.7" y1="66.06" x1="26.21" class="cls-3" />
+        <line id="svg_11" stroke-dasharray="6.25 6.25" stroke-width="4px" stroke-linejoin="round"
+            stroke-linecap="round" stroke="#4db5ac" fill="none" y2="66.06" x2="47.32" y1="66.06"
+            x1="37.94" class="cls-5" />
+        <line id="svg_12" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" y2="66.06" x2="55.93" y1="66.06" x1="50.44"
+            class="cls-3" />
+    </g>
+</svg>

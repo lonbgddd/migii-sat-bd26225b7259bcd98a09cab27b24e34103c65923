@@ -1,0 +1,28 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1">
+
+    <g>
+        <title>Layer 1</title>
+        <g id="svg_1" opacity="0.1" class="cls-1">
+            <circle id="svg_2" fill="#4db5ac" r="50" cy="50" cx="50" class="cls-2" />
+        </g>
+        <rect id="svg_3" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" rx="4" height="53.81" width="51.73" y="25.27" x="24.14"
+            class="cls-3" />
+        <line id="svg_4" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" y2="29.64" x2="36.49" y1="20.92" x1="36.49"
+            class="cls-3" />
+        <line id="svg_5" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" y2="29.64" x2="50.8" y1="20.92" x1="50.8" class="cls-3" />
+        <line id="svg_6" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" y2="29.64" x2="65.1" y1="20.92" x1="65.1" class="cls-3" />
+        <line id="svg_7" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" y2="41.18" x2="66.42" y1="41.18" x1="33.58"
+            class="cls-3" />
+        <line id="svg_8" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" y2="54.45" x2="66.42" y1="54.45" x1="33.58"
+            class="cls-3" />
+        <line id="svg_9" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round"
+            stroke="#4db5ac" fill="none" y2="67.71" x2="66.42" y1="67.71" x1="33.58"
+            class="cls-3" />
+    </g>
+</svg>

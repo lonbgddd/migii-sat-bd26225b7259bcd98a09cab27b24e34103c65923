@@ -1,0 +1,262 @@
+[
+  {
+    "section": "Reading & Writing",
+    "kinds": [
+      {
+        "name": "Information and Ideas",
+        "themes": [
+          {
+            "name": "Theme 1: Command of Evidence (Textual, Quantitative)",
+            "id_kind_list": [
+              "110001"
+            ],
+            "default": 5,
+            "description": "What are \"textual evidence\" questions?\nSome questions will introduce a claim about an unfamiliar subject. The question will then ask you to identify the piece of evidence that most strongly supports that claim.\n\nWhat are \"quantitative evidence\" questions?\nSome questions will provide you with a graph or table that presents information about an unfamiliar topic. The question will then offer some context for that information and ask you to complete a sentence by effectively using data from the graph or table.",
+            "time_multiple": 120,
+            "icon": "110001"
+          },
+          {
+            "name": "Theme 2: Central Ideas and Details",
+            "id_kind_list": [
+              "110002"
+            ],
+            "default": 5,
+            "description": "What are \"central ideas and details\" questions?\nSome questions will present a short passage for you to read. The passage may be excerpted from a work of literature or from a scholarly essay.\nOnce you read the passage, you'll be asked either to identify the main idea of the text or to answer a specific question based on the text.",
+            "time_multiple": 90,
+            "icon": "110002"
+          },
+          {
+            "name": "Theme 3: Inferences",
+            "id_kind_list": [
+              "110003"
+            ],
+            "default": 5,
+            "description": "What are \"inferences\" questions?\nSome questions will provide an unfinished passage that introduces information about an unfamiliar topic. Based on that information, you'll be asked to select the choice that most logically completes the text.",
+            "time_multiple": 90,
+            "icon": "110003"
+          }
+        ],
+        "icon": "ic_information_and_ideas",
+        "is_premium": false
+      },
+      {
+        "name": "Craft and Structure",
+        "themes": [
+          {
+            "name": "Theme 1: Words in Context",
+            "id_kind_list": [
+              "120001"
+            ],
+            "default": 10,
+            "description": "What are \"words in context\" questions?\nSome questions will ask you to select the most logical and precise word or phrase in a given context.",
+            "time_multiple": 45,
+            "icon": "120001"
+          },
+          {
+            "name": "Theme 2: Text Structure and Purpose",
+            "id_kind_list": [
+              "120002"
+            ],
+            "default": 5,
+            "description": "What are \"text structure and purpose\" questions?\nSome questions will present a short text for you to read. The question will then ask you to identify the main purpose or overall structure of the text.",
+            "time_multiple": 90,
+            "icon": "120002"
+          },
+          {
+            "name": "Theme 3: Cross-Text Connections",
+            "id_kind_list": [
+              "120003"
+            ],
+            "default": 5,
+            "description": "What are \"cross-text connections\" questions?\nSome questions will present two short texts for you to read. The question will then ask you to compare the points of view of the authors of the two texts.",
+            "time_multiple": 120,
+            "icon": "120003"
+          }
+        ],
+        "icon": "ic_craft_and_structure",
+        "is_premium": false
+      },
+      {
+        "name": "Expression of Ideas",
+        "themes": [
+          {
+            "name": "Theme 1: Rhetorical Synthesis",
+            "id_kind_list": [
+              "130001"
+            ],
+            "default": 5,
+            "description": "What are \"rhetorical synthesis\" questions?\nSome questions will provide you with a series of bulleted notes that contain related information about an unfamiliar topic. The question will then ask you to effectively use relevant information from the notes to accomplish a particular goal.",
+            "time_multiple": 120,
+            "icon": "130001"
+          },
+          {
+            "name": "Theme 2 :Transitions",
+            "id_kind_list": [
+              "130002"
+            ],
+            "default": 10,
+            "description": "What are \"transitions\" questions?\nSome questions will ask you to select the most logical transition word or phrase to connect information and ideas within a brief passage .",
+            "time_multiple": 45,
+            "icon": "130002"
+          }
+        ],
+        "icon": "ic_expression_of_ideas",
+        "is_premium": true
+      },
+      {
+        "name": "Standard English Conventions",
+        "themes": [
+          {
+            "name": "Theme 1: Form, Structure, and Sense",
+            "id_kind_list": [
+              "140001"
+            ],
+            "default": 10,
+            "description": "What are \"form, structure, and sense\" questions?\nSome questions will present you with a short passage that contains a blank. The question will then ask you to complete the text in a way that conforms to the conventions of Standard English.\n\nForm, structure, and sense questions focus on the rules surrounding various parts of speech (nouns, verbs, etc.) and their usage.",
+            "time_multiple": 45,
+            "icon": "140001"
+          },
+          {
+            "name": "Theme 2: Boundaries",
+            "id_kind_list": [
+              "140002"
+            ],
+            "default": 10,
+            "description": "What are \"boundaries\" questions?\nSome questions will present you with a short passage that contains a blank. The question will then ask you to complete the text in a way that conforms to the conventions of Standard English.\n\nBoundaries questions focus on how phrases, clauses, and sentences are linked together in written English.",
+            "time_multiple": 45,
+            "icon": "140002"
+          }
+        ],
+        "icon": "ic_standard_english_conventions",
+        "is_premium": true
+      }
+    ]
+  },
+  {
+    "section": "Math",
+    "kinds": [
+      {
+        "name": "Problem Solving and Data Analysis",
+        "themes": [
+          {
+            "name": "Theme 1: Rates, Units & Percentages",
+            "id_kind_list": [
+              "210001_1"
+            ],
+            "default": 10,
+            "description": "This theme tackles the problem solving and data analysis questions on the SAT Math test about Rates, Units & Percentages:\n- Ratios, rates, and proportions\n- Unit conversion\n- Percentages...",
+            "time_multiple": 60,
+            "time_response": 60,
+            "icon": "210001"
+          },
+          {
+            "name": "Theme 2: Relationships in Diagrams",
+            "id_kind_list": [
+              "210002_1"
+            ],
+            "default": 5,
+            "description": "This theme tackles the problem solving and data analysis questions on the SAT Math test about Rates, Units & Percentages:\n- Center, spread, and shape of distributions\n- Data representations\n- Scatterplots\n- Linear and exponential growth\n- Probability and relative frequency\n- Data inferences...",
+            "time_multiple": 90,
+            "time_response": 90,
+            "icon": "210002"
+          }
+        ],
+        "icon": "ic_problem_solving_and_data_analysis",
+        "is_premium": false
+      },
+      {
+        "name": "Algebra",
+        "themes": [
+          {
+            "name": "Theme 1: Algebra",
+            "id_kind_list": [
+              "220001_1"
+            ],
+            "default": 5,
+            "description": "This theme tackles the algebra questions on the SAT Math test. Work through each skill, taking quizzes to level up your mastery progress:\n- Solving linear equations and inequalities\n- Linear equation word problems\n- Linear relationship word problems\n- Graphs of linear equations and functions\n- Solving systems of linear equations...",
+            "time_multiple": 105,
+            "time_response": 105,
+            "icon": "220001"
+          },
+          {
+            "name": "Theme 2: Algebra in context",
+            "id_kind_list": [
+              "220002_1"
+            ],
+            "default": 5,
+            "description": "This theme covers the algebra in context. You will solve algebra in a specific context.",
+            "time_multiple": 105,
+            "time_response": 105,
+            "icon": "220002"
+          }
+        ],
+        "icon": "ic_algebra",
+        "is_premium": true
+      },
+      {
+        "name": "Geometry & Trigonometry",
+        "themes": [
+          {
+            "name": "Theme 1: Geometry",
+            "id_kind_list": [
+              "230001_1"
+            ],
+            "default": 5,
+            "description": "This theme covers the geometry questions on the SAT Math test. Work through each skill, taking quizzes to level up your mastery progress:\n- Area and volume\n- Congruence, similarity, and angle relationships\n- Circle theorems\n- Circle equations...",
+            "time_multiple": 90,
+            "time_response": 90,
+            "icon": "230001"
+          },
+          {
+            "name": "Theme 2: Trigonometry",
+            "id_kind_list": [
+              "230002_1"
+            ],
+            "default": 5,
+            "description": "This theme covers the trigonometry questions on the SAT Math test. Work through each skill, taking quizzes to level up your mastery progress:\n- Right triangle trigonometry\n- Unit circle trigonometry...",
+            "time_multiple": 135,
+            "time_response": 135,
+            "icon": "230002"
+          }
+        ],
+        "icon": "ic_geometry_trigonometry",
+        "is_premium": true
+      },
+      {
+        "name": "Advanced Math",
+        "themes": [
+          {
+            "name": "Theme 1: Advanced Math",
+            "id_kind_list": [
+              "240001_1",
+              "240001_2",
+              "240001_3",
+              "240001_4",
+              "240001_5",
+              "240001_6",
+              "240001_7"
+            ],
+            "default": 5,
+            "description": "This theme covers the advanced math questions on the SAT Math test. Work through each skill, taking quizzes to level up your mastery progress:\n- Factoring quadratic and polynomial expressions\n- Radicals and rational exponents\n- Operations with polynomials\n- Operations with rational expressions\n- Nonlinear functions\n- Isolating quantities\n- Radical, rational, and absolute value equations\n- Linear and quadratic systems...",
+            "time_multiple": 120,
+            "time_response": 180,
+            "icon": "240001"
+          },
+          {
+            "name": "Theme 2: Advanced Math in context",
+            "id_kind_list": [
+              "240002_1"
+            ],
+            "default": 5,
+            "description": "This theme covers the advanced math in context. You will solve advanced math in a specific context.",
+            "time_multiple": 150,
+            "time_response": 150,
+            "icon": "240002"
+          }
+        ],
+        "icon": "ic_advanced_math",
+        "is_premium": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1">
+
+    <g>
+        <title>Layer 1</title>
+        <path id="svg_1" fill="#74ccbd"
+            d="m50,11.21l0,77.62l-25.51,0a5,5 0 0 1 -5,-5l0,-67.62a5,5 0 0 1 5,-5l25.51,0z"
+            class="cls-1" />
+        <path id="svg_2" fill="#5ec5b4"
+            d="m80.5,28.13l0,55.7a5,5 0 0 1 -5,5l-25.5,0l0,-77.62l13.56,0l0,16.92l16.94,0z"
+            class="cls-2" />
+        <polygon id="svg_3" fill="#ee8d4d" points="80.5 28.13 63.56 28.13 63.56 11.21 80.5 28.13"
+            class="cls-3" />
+        <path id="svg_4" fill="#fff"
+            d="m65,43.85l-30.6,0a2.5,2.5 0 0 1 0,-5l30.6,0a2.5,2.5 0 0 1 0,5z" class="cls-4" />
+        <path id="svg_5" fill="#fff"
+            d="m65,70.88l-30.6,0a2.5,2.5 0 0 1 0,-5l30.6,0a2.5,2.5 0 0 1 0,5z" class="cls-4" />
+        <path id="svg_6" fill="#fff"
+            d="m55.16,57.94l-20.76,0a2.5,2.5 0 0 1 0,-5l20.76,0a2.5,2.5 0 0 1 0,5z" class="cls-4" />
+    </g>
+</svg>

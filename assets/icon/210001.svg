@@ -1,0 +1,12 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1">
+
+    <g>
+        <title>Layer 1</title>
+        <g id="svg_1" opacity="0.1" class="cls-1">
+            <circle id="svg_2" fill="#4db5ac" r="50" cy="50" cx="50" class="cls-2"/>
+        </g>
+        <line id="svg_3" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round" stroke="#4db5ac" fill="none" y2="69.97" x2="34.11" y1="31.22" x1="64.95" class="cls-3"/>
+        <circle id="svg_4" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round" stroke="#4db5ac" fill="none" r="8.31" cy="64.49" cx="58.55" class="cls-3"/>
+        <circle id="svg_5" stroke-width="4px" stroke-linejoin="round" stroke-linecap="round" stroke="#4db5ac" fill="none" r="8.31" cy="35.51" cx="41.45" class="cls-3"/>
+    </g>
+</svg>
